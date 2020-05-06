@@ -1,0 +1,2 @@
+export const UPDATE_USER = 'USER:UPDATE';
+export const SET_SELECTED_VILLAGE = 'VILLAGE:SET_SELECTED';
